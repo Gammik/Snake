@@ -19,7 +19,7 @@ Welcome to the Snake Game! This is a classic arcade-style game where you control
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/Gammik/Snake
+   git clone https://github.com/Gammik/Snake.git
    ```
 
 2. Open the terminal and navigate to the project directory:
